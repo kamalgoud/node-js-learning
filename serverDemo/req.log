@@ -29,3 +29,7 @@ function toLocaleDateString() { [native code] }: request received
 1/25/2025: request received /about/x?name=kamal 
 1/25/2025: request received /about?name=kamal 
 1/25/2025: request received /about?name=kamal 
+1/25/2025: request received :: GET :: /about?name=kamal 
+1/25/2025: request received :: GET :: /signup?name=kamal 
+1/25/2025: request received :: GET :: /signup?name=kamal 
+1/25/2025: request received :: GET :: /signup?name=java 
